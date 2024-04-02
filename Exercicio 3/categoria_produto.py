@@ -1,5 +1,6 @@
 
 
+
 class CategoriaProduto:
 
     def __init__(self, titulo):
